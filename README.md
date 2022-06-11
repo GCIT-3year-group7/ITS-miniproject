@@ -1,4 +1,4 @@
-## Movie Rationg Analysis by Group 7
+## Movie Rating Analysis by Group 7
 
 It is a Dashboard is built for ITS307 Data Analytics group project by Group 7. This analysis shows the highst rated movie based on each genre.
 
