@@ -1,47 +1,43 @@
-## Sign-Language-Classification-Web-Application by Sign-Team
+## Movie Rationg Analysis by Group 7
 
-Web-application *"Sign-language-classification"* is buit for ITS307 Data Analytics group project by Sign-Team. This application is built to utilize data analytics and machine learning tools to extract features, pre-process, clean, analyze, interpret and visualize from online available structured datasets to derive a conclusion regarding the information they hold and predict the future.
-
-### Why Sign language classification 
-
-1. Poor communication between normal people and people who have disability in hearing and listening
-2. Poor communication among people who are disable in hearing and listening
-3. No accuratre system for detection of sign language
-
-Sign-language-classification-web-application allows users to upload the pictures of sign-langauge and it will predict and classify the sign-languages
-
-*Note: This web-application is trained to classify following sign-langauges*
-1. Like 
-2. Dislike 
-3. live long 
-4. Love
-5. Peace 
-6. Okey
-
-Click here to visit our [Web-Application](https://sign-language-classification.herokuapp.com)
-
-Application is built using Python,HTML/CSS/JS,Bootstrap
-
-### Poster
-
-<img src='https://github.com/Team-RainDate/Sign-Language-Classification/blob/main/Poster/poster.jpeg'>
+It is a Dashboard is built for ITS307 Data Analytics group project by Group 7. This analysis shows the highst rated movie based on each genre.
 
 
-## Screenshot of the application
-<img src='https://github.com/Team-RainDate/Sign-Language-Classification/blob/main/Screenshot%20of%20Web-Application/Screenshot%20from%202022-06-11%2000-47-47.png'>
+### Why Movie Rating Analysis?
 
-<img src='https://github.com/Team-RainDate/Sign-Language-Classification/blob/main/Screenshot%20of%20Web-Application/Screenshot%20from%202022-06-11%2000-50-36.png'>
+1. Time consuming since we have watch the full movie.
 
-<img src='https://github.com/Team-RainDate/Sign-Language-Classification/blob/main/Screenshot%20of%20Web-Application/Screenshot%20from%202022-06-11%2000-50-55.png'>
+The Movie Rating Analysis dashboard allows the users known the top rated movie of each genre.
 
-<img src='https://github.com/Team-RainDate/Sign-Language-Classification/blob/main/Screenshot%20of%20Web-Application/Screenshot%20from%202022-06-11%2000-51-37.png'>
+*Note: The dashboard contains 22 genres *
+1. Action
+2. Music 
+3. War 
+4. Horror
+5. History 
+6. Crime
+7. Adventure
+8. Talk-Show
+9. Musical
+10. Biography
+11. Fantasy
+12. Animation
+13. Western
+14. Reality-TV
+15. Thriller
+16. Sports
+17. Family
+18. Mystery
+19. Drama
+20. Romance
+21. Sci-Fi
+22. Comedy
 
-<img src='https://github.com/Team-RainDate/Sign-Language-Classification/blob/main/Screenshot%20of%20Web-Application/Screenshot%20from%202022-06-11%2000-51-48.png'>
+Click here to visit our [Dashboard](https://group7-miniprj.herokuapp.com/)
 
-<img src='https://github.com/Team-RainDate/Sign-Language-Classification/blob/main/Screenshot%20of%20Web-Application/Screenshot%20from%202022-06-11%2000-51-57.png'>
+Application is built using Python,plotly dash, plotly express
 
-<img src='https://github.com/Team-RainDate/Sign-Language-Classification/blob/main/Screenshot%20of%20Web-Application/Screenshot%20from%202022-06-11%2000-52-07.png'>
 
-<img src='https://github.com/Team-RainDate/Sign-Language-Classification/blob/main/Screenshot%20of%20Web-Application/Screenshot%20from%202022-06-11%2001-20-08.png'>
 
-<img src='https://github.com/Team-RainDate/Sign-Language-Classification/blob/main/Screenshot%20of%20Web-Application/Screenshot%20from%202022-06-11%2001-20-53.png'>
+
+
